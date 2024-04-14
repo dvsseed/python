@@ -1,2 +1,2 @@
 # python
-a lot of python codes
+## I have been writing a lot of Python code recently for some purpose.
